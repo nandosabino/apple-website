@@ -6,7 +6,7 @@ Clone front-end do site da Apple, focado no iPhone 15 Pro. Desenvolvido com **Re
 
 ## Preview 🖼️
 
-![Preview do site](./public/preview.png)
+![Preview do site](public/assets/Preview.png)
 
 ---
 
